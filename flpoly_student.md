@@ -1,26 +1,26 @@
-## Student Name (or name you would preferred to be called)
+## Joel
 
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Calc 1
 
-- Course 2
+- Intro to Data Analytics
 
-- Course 3
+- Intro to Data Science
 
-- Course 4
+- Computation and programming
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Anime
 
-- Thing 2
+- Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Electrical Engineering <https://www.floridapoly.edu>
 
 ***
 
